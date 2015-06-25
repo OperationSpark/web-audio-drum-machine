@@ -1,0 +1,10 @@
+.drum-buttons {
+    display: flex;
+    flex-direction: row;
+}
+
+.drum-buttons button {
+        display: block;
+        width: 150px;
+        height: 150px;
+}

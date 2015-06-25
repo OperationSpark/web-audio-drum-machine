@@ -1,0 +1,19 @@
+{
+  "name": "web-audio-drum-machine",
+  "version": "0.0.0",
+  "homepage": "https://github.com/OperationSpark/web-audio-drum-machine",
+  "authors": [
+    "Steve Price <steveprice@mooserooster.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "~2.1.4"
+  }
+}
